@@ -1,8 +1,8 @@
 # TottoNotify
 My first script ever, custom notify script with popup sound. QBCORE/ESX
 
-
-(https://ibb.co/5g43bjys)
+Preview
+(https://imgur.com/JzI2yzo)
 
 
 #tottoNotify
