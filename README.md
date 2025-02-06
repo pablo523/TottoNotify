@@ -11,7 +11,7 @@ To replace QBCore notify system, you need to replace the function in qb-core/mai
 
 Find this line: 
 
-function QBCore.Functions.Notify(text, texttype, length)
+``function QBCore.Functions.Notify(text, texttype, length)
     if type(text) == "table" then
         local ttext = text.text or 'Placeholder'
         local caption = text.caption or 'Placeholder'
@@ -34,7 +34,7 @@ function QBCore.Functions.Notify(text, texttype, length)
             text = text
         })
     end
-end
+end``
 
 And replace it with this:
 
