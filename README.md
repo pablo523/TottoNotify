@@ -2,7 +2,7 @@
 My first script ever, custom notify script with popup sound. QBCORE/ESX
 
 
-![218_10](https://github.com/user-attachments/assets/6056cbd6-2074-426d-b425-c1c586cb4e1f)
+(https://ibb.co/5g43bjys)
 
 
 #tottoNotify
